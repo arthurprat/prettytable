@@ -20,6 +20,6 @@ setup(
     author='Luke Maurits',
     author_email='luke@maurits.id.au',
     url='http://code.google.com/p/prettytable',
-    py_modules=['prettytable'],
+    py_modules=['prettytable', 'tableFormats'],
     test_suite = "prettytable_test"
 )
